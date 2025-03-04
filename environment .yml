@@ -1,0 +1,7 @@
+datalore-env-format-version: "0.2"
+datalore-package-manager: "pip"
+datalore-base-env: "default"
+dependencies:
+- pip:
+  - yfinance==0.2.54
+  - html5lib==1.1
